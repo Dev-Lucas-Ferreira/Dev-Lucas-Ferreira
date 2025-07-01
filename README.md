@@ -18,24 +18,16 @@
 ---
 
 ## 🚧 Atualmente aprendendo
-- TypeScript com aplicações web reais
-- Organização de código com componentes reutilizáveis
-- Design responsivo com CSS puro e boas práticas
 
----
-
-## 🚀 Projeto em destaque
-
-| Nome do Projeto | Descrição | Link |
-|------------------|-----------|------|
-| ♻️ Echo Task | Plataforma gamificada para incentivar ações sustentáveis. | [Ver no GitHub](https://github.com/Dev-Lucas-Ferreira/Echo-Task) |
+- TypeScript com aplicações web reais  
+- Organização de código com componentes reutilizáveis  
+- Design responsivo com CSS puro e boas práticas  
 
 ---
 
 ## 📫 Contato
 
-- Email: **seu-email-aqui@email.com**
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(opcional)*
+- Email: lucasgabriel240224@gmail.com 
 - Portfolio: em construção 🚧
 
 ---
